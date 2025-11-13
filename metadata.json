@@ -1,0 +1,7 @@
+{
+  "name": "Gallery ai",
+  "description": "An interactive AI chatbot to help users explore a gallery website, discover art, and find media. Engage in natural conversation to get information about artists, exhibitions, and specific artworks.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
